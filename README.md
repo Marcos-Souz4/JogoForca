@@ -4,7 +4,7 @@
 
 ## 📋 Funcionalidades
 
-- **Escolha de Palavra Aleatória**: O jogo escolhe uma palavra aleatória de um banco de dados de palavras.
+- **Escolha de Palavra Aleatória**: O jogo escolhe uma palavra aleatória de um banco de dados de palavras que contém apenas frutas.
 - **Interatividade**: O jogador dá chutes (letras) para tentar adivinhar a palavra secreta.
 - **Desenho da Forca**: A cada erro, o boneco da forca é desenhado progressivamente.
 - **Sistema de Vitória/Derrota**: O jogo termina com uma mensagem de vitória ou derrota, com direito a desenhos ASCII.
